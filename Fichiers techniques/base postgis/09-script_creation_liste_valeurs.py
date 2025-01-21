@@ -43,7 +43,7 @@ for fichier in os.listdir(repertoire_csv):
             cursor.execute(create_table_sql)
 
             # Importation des données depuis le fichier CSV
-            with open(chemin_fichier, 'r') as f:
+            with open(chemin_fichier, 'r', encoding="utf-8") as f:
                 with cursor.copy(f"COPY stareau_valeur.{nom_table} (code, valeur, description) FROM STDIN WITH (FORMAT csv, HEADER false)") as copy:
                     copy.write(f.read())
 
