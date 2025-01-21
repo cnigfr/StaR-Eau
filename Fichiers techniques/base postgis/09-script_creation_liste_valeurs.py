@@ -6,6 +6,7 @@
 import os
 import psycopg
 import csv
+from pathlib import Path
 
 # Script permettent de s'affranchir des permissions de lecture serveur de postgresql / nécessite psycopg3
 
@@ -19,7 +20,12 @@ conn_params = {
 }
 
 # Chemin vers le répertoire contenant les fichiers CSV
-repertoire_csv = '/*********/Reseaux-eaux/Standard StaR-Eau/listes valeurs/brutes_avant_import/'
+script_path = Path(__file__).resolve()
+script_directory = script_path.parent
+relative_path_to_csv = '../listes valeurs/brutes_avant_import/'
+# Combiner le répertoire du script avec le chemin relatif
+repertoire_csv = (script_directory / relative_path_to_csv).resolve()
+
 
 # Connexion à la base de données PostgreSQL
 conn = psycopg.connect(**conn_params)
@@ -29,6 +35,8 @@ for fichier in os.listdir(repertoire_csv):
     if fichier.endswith('.csv'):
         chemin_fichier = os.path.join(repertoire_csv, fichier)
         nom_table = os.path.splitext(fichier)[0]
+
+        print(' Table : ' + nom_table)
 
         with conn.cursor() as cursor:
             # Création de la table -- ATTENTION le schema stareau_valeur doit exister!
@@ -41,6 +49,12 @@ for fichier in os.listdir(repertoire_csv):
             );
             """
             cursor.execute(create_table_sql)
+
+            # Nettoyage de la table en cas de rejeu du script
+            clean_table_sql = f"""
+            DELETE FROM stareau_valeur.{nom_table};
+            """
+            cursor.execute(clean_table_sql)
 
             # Importation des données depuis le fichier CSV
             with open(chemin_fichier, 'r', encoding="utf-8") as f:
