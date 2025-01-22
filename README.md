@@ -1,5 +1,5 @@
-![logo](https://github.com/cnigfr/StaR-Eau/blob/main/Documentation/image_documentation/logo/logo.png "logo")
-![logo-astee-2](https://github.com/user-attachments/assets/de90a9e7-a8ad-4648-92be-8f2b2cfaaebe)
+![logo](https://github.com/cnigfr/StaR-Eau/blob/main/Documentation/image_documentation/logo/logo.png "logo").
+![ASTEE-S-CMJN2](https://github.com/user-attachments/assets/ee56b0dd-1af1-42a7-a11b-052e73ebfe85)
 
 
 # GT Réseaux enterrés des eaux
