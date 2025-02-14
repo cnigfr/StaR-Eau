@@ -1,6 +1,5 @@
 # Changelog - Journal des modifications
-// Last modified: 2024/12/12 20:14:23
-
+// Last modified: 2025/02/14 16:19:43
 
 Tous les changements notables du modèle sont listés ici. Merci de respecter la format.
 Le format de ce fichier est basé sur [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/)
@@ -9,13 +8,13 @@ Le format de ce fichier est basé sur [Keep a Changelog](https://keepachangelog.
 ## [Unreleased] - En cours
 
 ### Added - Ajouté
-- 
+-
 
 ### fixed - Corrigé
 - 
 
 ### Changed - Changé
-- 
+-
 
 ### Removed - Retiré
 - 

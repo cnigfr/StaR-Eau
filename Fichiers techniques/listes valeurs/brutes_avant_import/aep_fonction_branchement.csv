@@ -1,5 +1,3 @@
-"usager","usager","à destination d'un usager/abonné"
+"fourniture","fourniture","pour fourniture régulière d'eau"
 "incendie","incendie","pour branchement défense incendie"
-"purge","purge","pour purge de la canalisation principale"
-"vidange","vidange","pour vidange de la canalisation principale"
-"livraison","point livraison","cf. information du point de livraison"
+"purge","purge/vidange","pour purge/vidange de la canalisation principale"

@@ -3,7 +3,6 @@
 "filtre","filtre","permet de retenir des éléments présents dans l'eau"
 "chasse","chasse manuelle/automatique","organe créant une circulation soudaine d'eau"
 "boite_boue","boite à boues","permet de piéger les boues"
-"purge","purge","ouverture manuelle du réseau pour chasse d'air ou d'eau"
-"vidange","vidange(décharge)","permet de vider entièrement une conduite ou réseau"
+"purge_auto","purge automatique","ouverture programmée du réseau pour chasse d'air ou d'eau"
 "anti_belier","anti-bélier","organe de protection contre les variations soudaines de pression"
 "anti_retour","clapet anti-retour","organe de protection contre le retour d''eau dans le réseau"
