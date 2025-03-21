@@ -1,0 +1,34 @@
+{
+  "name": "Aide StaR-Eau",
+  "version": "2024",
+  "description": "Aide pour la prise en main et l'exploitation du modèle StaR-Eau",
+  "search": true,
+  "qrcode": false,
+  "author": {
+    "name": "GT Astee - CNIG",
+    "url": "https://github.com/cnigfr/StaR-Eau"
+  },
+  "logo": "/images/logo/logo.png",
+  "license": "ETALAB V2",
+  "language": "fr",
+  "basePath": "/StaR-Eau",
+  "repo": {
+    "url": "https://github.com/cnigfr/StaR-Eau/edit/main/aide/%path%",
+    "label": "Modifié sur GitHub"
+  },
+    "colors": {
+    "brand": "#0060b6"
+  },
+  "allowDangerousHtml": true,
+  "links": [
+    {
+      "label": "Question",
+      "links": [
+        {
+          "label": "Issue Github",
+          "href": "https://github.com/cnigfr/StaR-Eau/issues"
+        }
+      ]
+    }
+  ]
+}

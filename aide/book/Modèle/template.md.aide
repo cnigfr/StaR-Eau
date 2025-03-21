@@ -1,0 +1,15 @@
+---
+name: nom de la page
+index: 100
+---
+# titre
+
+<!--
+à inclure sous name si grandes images
+style:
+    -style.css
+-->
+Template pour aide à la création de page. Copier coller les premières lignes.
+aide sur https://hyperbook.openpatch.org
+
+

@@ -1,0 +1,19 @@
+<svg class="iconify iconify--gis" width="30" height="30" aria-hidden="true" preserveAspectRatio="xMidYMid" role="img" version="1.1" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <metadata>
+    <rdf:RDF>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+      </cc:License>
+      <cc:Work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <circle cx="15" cy="15" r="7.5" style="stroke-width:11.3636"/>
+  <circle cx="15" cy="15" r="2.5" style="fill:#fff;stroke-width:11.1138"/>
+</svg>
