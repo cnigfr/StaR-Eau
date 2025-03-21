@@ -30,9 +30,7 @@ Les objectifs de la symbologie sont :
 ## V2024 - Novembre 2024
 La version finale, appelée V2024, est en ligne sur ce site : [documentation --> modèle](Documentation/Modéle) et sur le [site de l'Astee](https://www.astee.org/publications/geostandard-de-reseaux-star-eau/).
 
-Le fichier de commentaire reste ouvert à cette adresse [commentaire](https://cryptpad.fr/sheet/#/2/sheet/edit/ew31VKDhicOB2gzORdItaF6W/embed/). Les commentaires peuvent encore être déposés. **merci de votre participation.**
-
-Vous pouvez aussi consulter le wiki [en suivant ce lien.](https://github.com/cnigfr/StaR-Eau/wiki)
+Vous pouvez aussi consulter l'aide à la saisie [en suivant ce lien.](https://cnigfr.github.io/StaR-Eau/)
 
 Pour toutes questions, utilisez les [ISSUES](https://github.com/cnigfr/StaR-Eau/issues) ou l’adresse indiquée sur le site de [Astee](https://www.astee.org/contactez-nous/)
 
