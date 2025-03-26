@@ -11,10 +11,6 @@ Le sens de saisie doit être dans la mesure du possible dans le sens d'écouleme
 
 Par ailleurs, un tronçon doit être saisie entre 2 noeuds.
 
-Exemple rapide d'illustration :
-
-https://github.com/cnigfr/StaR-Eau/assets/108521114/c90ab870-0b54-4d07-a92a-0a5fd0588a5a
-
 ## fonction dans le réseau
 La fonction de la canalisation dans le réseau caractérise sa **fonction principale**.
 
