@@ -1,6 +1,6 @@
 ---
 name: Vos marque-pages
-index: 1
+index: 2
 ---
 
 # Vos marque-pages personnalisés
