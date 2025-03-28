@@ -34,8 +34,8 @@ les pages de ce wiki n'ont pas fait l'objet de validation en commission, elles s
 :::
 
 <----- Table des matières dans le menu à gauche <-----
-# Partenaires
 
+# Commanditaires et partenaires
 | astee  | CNIG | OFB | * |
 | :----: | :----: | :----: | :----: |
 | ![astee](images/logo/astee.jpg) | ![CNIG](images/logo/cnig.png) | ![ofb](images/logo/ofb.png) | - |
