@@ -32,7 +32,7 @@ CREATE TABLE "stareau_aep".aep_canalisation (
   id_aep_canalisation text null, -- pour id_existant
   fonction_canalisation text NOT NULL, -- >fonction canalisation dans le réseau
   contenu_canalisation text NOT NULL, -- >type d'eau transportée
-  protection_cathodique text NULL, -- >presence protection cathodique
+  protection_cathodique BOOL DEFAULT false NULL, -- >presence protection cathodique
   etage_pression text NULL, -- reference etage de pression
   type_pression text NOT NULL, -- >pression de distribution
   secteur_hydraulique text NULL, -- secteur ou ilot de distribution
