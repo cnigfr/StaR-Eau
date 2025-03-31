@@ -33,7 +33,7 @@ CREATE TABLE "stareau_aep_brcht".aep_canalisation_branchement (
   id_aep_canalisation_branchement text null,
   fonction_canalisation text NOT NULL, -- >fonction du branchement
   contenu_canalisation text NOT NULL, -- >type d'eau transportée
-  protection_cathodique text NULL, -- >presence protection cathodique
+  protection_cathodique BOOL DEFAULT false NULL, -- >presence protection cathodique
   cote_debut float4 NULL, -- cote de la génératrice superieure
   cote_fin float4 NULL, -- cote génératrice supérieure
   CONSTRAINT pk_aep_cana_brcht PRIMARY KEY (id_canalisation)
@@ -45,6 +45,7 @@ COMMENT ON TABLE "stareau_aep_brcht".aep_canalisation_branchement IS 'conduite e
 COMMENT ON COLUMN "stareau_aep_brcht".aep_canalisation_branchement.id_aep_canalisation_branchement IS 'identifiant métier';
 COMMENT ON COLUMN "stareau_aep_brcht".aep_canalisation_branchement.fonction_canalisation IS '*fonction du branchement*';
 COMMENT ON COLUMN "stareau_aep_brcht".aep_canalisation_branchement.contenu_canalisation IS '*type d''eau transportée*';
+COMMENT ON COLUMN "stareau_aep".aep_canalisation_branchement.protection_cathodique IS '*présence protection cathodique*';
 COMMENT ON COLUMN "stareau_aep_brcht".aep_canalisation_branchement.cote_debut IS 'cote NGF de la génératrice supérieure';
 COMMENT ON COLUMN "stareau_aep_brcht".aep_canalisation_branchement.cote_fin IS 'cote NGF génératrice supérieure';
 
