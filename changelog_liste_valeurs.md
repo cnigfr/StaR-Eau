@@ -1,5 +1,5 @@
 # Changelog - Journal des modifications - liste de valeurs
-// Last modified: 2025/02/14 16:19:43
+// Last modified: 2025/04/04 17:40:47
 
 Tous les changements notables dans **les listes de valeurs** sont listés ici. Merci de respecter la format.
 Le format de ce fichier est basé sur [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/)
@@ -8,26 +8,19 @@ Le format de ce fichier est basé sur [Keep a Changelog](https://keepachangelog.
 ## [Unreleased] - En cours
 
 ### Added - Ajouté
-- liste aep_fonction_point_mesure
-  - prélèvement
-- liste aep_fonction_branchement
-  - fourniture
+- liste aep_fonction_point_mesure : prélèvement
+- liste aep_fonction_branchement : fourniture
+- création de la liste aep_grandeur_consigne : pression, débit, vitesse, niveau
 
 ### Changed - Changé
-- liste aep_fonction_branchement
-  - purge -> purge/vidange
-- liste aep_fonction_vanne
-  - purge -> purge/vidange
+- liste aep_fonction_branchement : purge -> purge/vidange
+- liste aep_fonction_vanne : purge -> purge/vidange
   - 
-- liste aep_type_appareillage
-  - purge -> purge automatique
-
+- liste aep_type_appareillage : purge -> purge automatique
 
 ### Removed - Retiré
-- liste aep_fonction_branchement
-  - vidange, livraison
-- liste aep_fonction_vanne
-  - sans fonction
+- liste aep_fonction_branchement :vidange, livraison
+- liste aep_fonction_vanne : sans fonction
 
 ## [V2024] - 2024-12-10
 Version de base (ou 1.0.0). Point de départ du changelog.
