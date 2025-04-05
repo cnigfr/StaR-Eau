@@ -1,9 +1,8 @@
 # Changelog - Journal des modifications - liste de valeurs
-// Last modified: 2025/04/04 17:40:47
+// Last modified: 2025/04/06 00:33:06
 
 Tous les changements notables dans **les listes de valeurs** sont listés ici. Merci de respecter la format.
 Le format de ce fichier est basé sur [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/)
-
 
 ## [Unreleased] - En cours
 
