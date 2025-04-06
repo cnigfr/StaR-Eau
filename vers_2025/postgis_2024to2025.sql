@@ -1,7 +1,7 @@
 /*
  * postgis_2024to2025 - 2025-02-14
  * // Created: 2024/07/01 05:48:52
- * // Last modified: 2025/04/04 17:40:50
+ * // Last modified: 2025/04/06 18:48:32
  * ETALABV2 - Alain pour Astee / CNIG-2025
  *
  * Ce fichier est un document libre ; vous pouvez le redistribuer et/ou le modifier selon les termes de la
@@ -39,11 +39,15 @@ COMMENT ON COLUMN stareau_aep.aep_regulation.grandeur_consigne IS '*propriété 
 
 CREATE TABLE stareau_valeur.aep_grandeur_consigne (code text NOT NULL,valeur text NOT NULL,description text NOT NULL
 	CONSTRAINT aep_grandeur_consigne_pk PRIMARY KEY (code));
-INSERT INTO stareau_valeur.aep_grandeur_consigne (code,valeur,description) VALUES
+insert into stareau_valeur.aep_grandeur_consigne (code,valeur,description) values
 	 ('debit','débit','volume traversant une surface par unité de temps, exprimé en m³/s'),
 	 ('pression','pression',' force exercée par un fluide sur une surface en bar'),
 	 ('niveau','niveau','position sur une échelle de mesure en m'),
-     ('vitesse','vitesse','distance parcourue par une masse de fluide par unité de temps en m/s');
+	 ('non_renseigne','non renseigné(e)','information en recherche ou disponible mais non saisie'),
+	 ('non_concerne','non concerné(e)','information non possible ou non pertinente pour l''élément décrit'),
+	 ('non_valide','non validé(e)','information existe mais n''est pas officiellement validée'),
+	 ('non_determine','non déterminé(e)','information inconnue ou non disponible et ne peut pas l''être'),
+	 ('autre','autre','ne figure pas dans la liste ci-dessus. cf. commentaire');
 
 ALTER TABLE stareau_aep.aep_regulation ADD CONSTRAINT aep_regulation_aep_grandeur_consigne_fk FOREIGN KEY (grandeur_consigne) REFERENCES stareau_valeur.aep_grandeur_consigne(code) ON UPDATE CASCADE;
 
