@@ -14,18 +14,18 @@ Le découpage des fichiers sql d'aide à la création d'une base Postgis doivent
 ## Eau Potable seule
 ### Service sans la gestion des branchements
 ou avec une gestion différenciée des branchements
-Le montage ne comporte alors que les tables mères, communes, et les schéma assainissement
+Le montage ne comporte alors que les tables mères, les tables communes, et les schémas aep
 
 ![d_montage_base](images/modele/d_montage_base.png)
 
-On peut aussi faire la même chose pour un service qui ne gère que les branchements
+On peut aussi faire la même chose pour un service qui ne gère que les branchements.
 
 ![c_montage_base](images/modele/c_montage_base.png)
 
 ### Service AEP réseau et branchements
 Sans doute le plus courant, il existe toutefois 2 possibilités :
-1. reprendre les montages ci-dessus en créant 2 bases, ou en renommant les tables mères (exemple : noeud_reseau --> noeud_branchement ou noeud_reseau_brcht...).
-2. utiliser les mêmes tables mères.
+1. reprendre les montages ci-dessus en créant 2 bases, et en renommant les tables mères (exemple : noeud_reseau --> noeud_branchement ou noeud_reseau_brcht...).
+2. utiliser les mêmes tables mères (canalisation, emprise, noeud_reseau). Les points, lignes, surfaces des branchements seront dans les mêmes tables que le reste et la numérotation se suivra entre objets "réseau" et les objets "branchement".
 
 ![b_montage_base](images/modele/b_montage_base.png)
 
