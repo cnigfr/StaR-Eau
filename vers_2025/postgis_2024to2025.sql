@@ -1,7 +1,7 @@
 /*
  * postgis_2024to2025 - 2025-02-14
  * // Created: 2024/07/01 05:48:52
- * // Last modified: 2025/04/06 18:48:32
+ * // Last modified: 2025/04/18 00:06:57
  * ETALABV2 - Alain pour Astee / CNIG-2025
  *
  * Ce fichier est un document libre ; vous pouvez le redistribuer et/ou le modifier selon les termes de la
@@ -37,7 +37,7 @@ ALTER TABLE stareau_ass.ass_regard ADD CONSTRAINT ass_regard_decantation_fk FORE
 ALTER TABLE stareau_aep.aep_regulation ADD grandeur_consigne text NOT NULL;
 COMMENT ON COLUMN stareau_aep.aep_regulation.grandeur_consigne IS '*propriété mesurée et mise en consigne*';
 
-CREATE TABLE stareau_valeur.aep_grandeur_consigne (code text NOT NULL,valeur text NOT NULL,description text NOT NULL
+CREATE TABLE stareau_valeur.aep_grandeur_consigne (code text NOT NULL,valeur text NOT NULL,description text NOT NULL,
 	CONSTRAINT aep_grandeur_consigne_pk PRIMARY KEY (code));
 insert into stareau_valeur.aep_grandeur_consigne (code,valeur,description) values
 	 ('debit','débit','volume traversant une surface par unité de temps, exprimé en m³/s'),
