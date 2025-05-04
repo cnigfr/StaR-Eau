@@ -1,5 +1,5 @@
 ---
-name: matériau
+name: Affleurants
 index: 1
 style:
     -style.css
@@ -13,15 +13,16 @@ Les affleurants sont à lier au PCRS, si possible. Cette table permet de répond
 
 _Exemple :_ En assainissement, le tampon d'un regard est rarement à la vertical du nœud de réseau. Ceci implique pour les ouvrages importants, une différence notable (>40cm) entre le tracé du réseau et les affleurants, notamment pour le classement en classe de précision A. Idem en eau potable.
 
-![regard non axial](/images/regard_non_axial.png)
+![regard non axial](/images/modele/regard_non_axial.png)
 
-![vertice_affleurant400](/images/images/modele/affleurants_point.png)
+![vertice_affleurant400](/images/modele/affleurants_point.png)
 
 ![symbole_affleurant400](/images/modele/affleurants_symbole.png)
 
 Idem en eau potable.
 
-# [type](https://github.com/cnigfr/StaR-Eau/blob/main/Standard%20StaR-Eau/listes%20valeurs/listes_completes/com_type_affleurant.csv)
+# [type]
+(https://github.com/cnigfr/StaR-Eau/blob/main/Standard%20StaR-Eau/listes%20valeurs/listes_completes/com_type_affleurant.csv)
 
 ## plaque
 ![plaque](https://tpdemain.com/wp-content/uploads/2023/02/031feb9a-10de-4b21-92e0-2b90f69acd16.jpeg)
