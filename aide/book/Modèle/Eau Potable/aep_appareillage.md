@@ -22,7 +22,7 @@ Retient les impuretés ou les dépôts dans le réseau.
 ### Chasse
 
 Nettoie les canalisations par jet d’eau.
-![image](/public/images/besoin_image.png)
+![image](/images/besoin_image.png)
 
 ### Clapet anti-retour
 
@@ -36,4 +36,4 @@ Fermeture définitive d’une conduite. image à titre d'illustration, sachant q
 
 
 
-:copyright: https://www.fransbonhomme.fr/c-web/c-web_univers_adduction_eau_potable/c-web_dom_protection_des_reseaux_adduction/c-web_dom_protection_des_reseaux_adduction-protection_et_regulation_des_reseaux_aep
+SOURCE : :copyright: https://www.fransbonhomme.fr/c-web/c-web_univers_adduction_eau_potable/c-web_dom_protection_des_reseaux_adduction/c-web_dom_protection_des_reseaux_adduction-protection_et_regulation_des_reseaux_aep
