@@ -7,7 +7,7 @@ index: 5
 
 :::alert{warn}
 
-Assurez-vous que la modification ne présente pas changement radical avant toutes modications (breaking change). Vérifier les héritages et clés étrangères !!
+Assurez-vous que la modification ne présente pas cde rupture radicale avant toutes modications.
 
 :::
 
