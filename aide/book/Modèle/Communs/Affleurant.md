@@ -2,7 +2,7 @@
 name: Affleurants
 index: 1
 style:
-    - /style.css
+    - style.css
 ---
 # affleurants
 
