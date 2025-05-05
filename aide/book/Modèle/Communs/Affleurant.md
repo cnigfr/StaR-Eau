@@ -1,8 +1,8 @@
 ---
 name: Affleurants
-index: 1
 style:
     - /style.css
+index: 1
 ---
 # affleurants
 
