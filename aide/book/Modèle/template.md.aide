@@ -6,8 +6,8 @@ index: 1
 
 <!--
 à inclure sous name si grandes images
-style:
-    -style.css
+styles:
+    - /style.css
 -->
 Template pour aide à la création de page. Copier coller les premières lignes.
 aide sur https://hyperbook.openpatch.org

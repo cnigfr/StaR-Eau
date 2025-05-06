@@ -1,12 +1,13 @@
 ---
-name: Affleurants
-style:
+name: Affleurant
+styles:
     - /style.css
 index: 1
 ---
-# affleurants
 
-Les tables sont identiques pour AEP et ASS.
+# affleurant
+
+Les tables sont identiques pour **AEP et ASS**.
 
 ## placement des affleurants
 
