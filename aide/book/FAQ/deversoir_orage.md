@@ -10,8 +10,8 @@ hide: true
 
 Schéma d'un ouvrage
 
-![deversoir_degrilleur1](images/modele/deversoir_degrilleur1.png)
+![deversoir_degrilleur1](/images/modele/deversoir_degrilleur1.png)
 
 Sa représentation dans le modèle
 
-![deversoir_degrilleur2](images/modele/deversoir_degrilleur2.png)
+![deversoir_degrilleur2](/images/modele/deversoir_degrilleur2.png)

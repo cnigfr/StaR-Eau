@@ -11,4 +11,4 @@ Les vannes de branchement sont la table *aep_vanne_branchement*
 
 ## sens fermeture
 
-![fsh-fah300](images/modele/fsh-fah.png)
+![fsh-fah300](/images/modele/fsh-fah.png)

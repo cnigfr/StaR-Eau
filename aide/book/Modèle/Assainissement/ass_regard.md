@@ -16,11 +16,11 @@ On peut considérer qu'un regard est axé sur la conduite quand l'axe de symétr
 Pour un regard non axial, l'axe n'est pas sur l'axe de conduite, sans toutefois quitté le bord extérieur de la conduite.
 Un regard est déporté lorsque que l'axe du regard (ou de la descente) est éloigné du bord de canalisation.
 
-![regards](images/modele/regard_position.png)
+![regards](/images/modele/regard_position.png)
 
 Pour un regard déporté, il est conseillé de créer un regard borgne sur la canalisation principale, une canalisation type "galerie" vers un regard de visite permettant l'accès.
 
-![saisie_regard_deporte](images/modele/regard_galerie.png)
+![saisie_regard_deporte](/images/modele/regard_galerie.png)
 
 ## type de descente
 Il existe plusieurs type de descente dans les regards, parfois à demeure, parfois à apporter.
