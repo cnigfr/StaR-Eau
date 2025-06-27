@@ -1,7 +1,7 @@
 /*
  * postgis_2024to2025 - 2025-02-14
  * // Created: 2024/07/01 05:48:52
- * // Last modified: 2025/04/18 00:06:57
+ * // Last modified: 2025/06/27 10:48:33
  * ETALABV2 - Alain pour Astee / CNIG-2025
  *
  * Ce fichier est un document libre ; vous pouvez le redistribuer et/ou le modifier selon les termes de la
@@ -51,4 +51,12 @@ insert into stareau_valeur.aep_grandeur_consigne (code,valeur,description) value
 
 ALTER TABLE stareau_aep.aep_regulation ADD CONSTRAINT aep_regulation_aep_grandeur_consigne_fk FOREIGN KEY (grandeur_consigne) REFERENCES stareau_valeur.aep_grandeur_consigne(code) ON UPDATE CASCADE;
 
----
+--- uniformisation des termes cote_
+ALTER TABLE stareau_ass_brcht.ass_canalisation_branchement RENAME COLUMN altitude_fil_eau_amont TO cote_fil_eau_amont;
+ALTER TABLE stareau_ass_brcht.ass_canalisation_branchement RENAME COLUMN altitude_fil_eau_aval TO cote_fil_eau_aval;
+ALTER TABLE stareau_ass_brcht.ass_point_collecte RENAME COLUMN z_tampon TO cote_tampon;
+ALTER TABLE stareau_ass_brcht.ass_point_collecte RENAME COLUMN z_radier TO cote_radier;
+ALTER TABLE stareau_ass_brcht.ass_point_collecte RENAME COLUMN profondeur TO profondeur_mesure;
+ALTER TABLE stareau_ass.ass_canalisation RENAME COLUMN altitude_fil_eau_amont TO cote_fil_eau_amont;
+ALTER TABLE stareau_ass.ass_canalisation RENAME COLUMN altitude_fil_eau_aval TO cote_fil_eau_aval;
+

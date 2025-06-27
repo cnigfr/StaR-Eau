@@ -2,7 +2,7 @@
  * 01-ass_creation_vues.sql - 2024-05-17
  *
  * // Created: 2024/07/01 05:48:52
- * // Last modified: 2024/12/02 23:13:55
+ * // Last modified: 2025/06/27 10:40:49
  *
  * ETALABV2 - Alain pour Astee / CNIG-2024
  *
@@ -73,8 +73,8 @@ AS SELECT ac.type_reseau,
     ac.id_ass_canalisation,
     ac.fonction_ass_canalisation,
     ac.visitable,
-    ac.altitude_fil_eau_amont,
-    ac.altitude_fil_eau_aval,
+    ac.cote_fil_eau_amont,
+    ac.cote_fil_eau_aval,
     ac.bassin_collecte,
     ac.ref_ouvrage_aval
    FROM stareau_ass.ass_canalisation ac

@@ -14,8 +14,8 @@ Par ailleurs, un tronçon doit être saisie entre 2 noeuds.
 ## fonction dans le réseau
 La fonction de la canalisation dans le réseau caractérise sa **fonction principale**.
 
-## altitude fil d'eau
-La mesure s'entend NGF IGN69.
+## cote fil d'eau
+Mesure de l'altitude du fil d'eau qui s'entend NGF IGN69. Le fil d'eau est la partie la plus basse de l'intérieur de la canalisation, où s'écoule l'eau.
 
 ## visitable
 La notion de canalisation visitable dépend de votre structure. Il n'y a à notre connaissance aucune contrainte légale sur la dimension minimale de visite. Les valeurs les plus souvent rencontrées sont de l'ordre de 1400 à 1600mm de diamètre équivalent.

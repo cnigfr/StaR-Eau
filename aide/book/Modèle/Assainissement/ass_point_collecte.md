@@ -41,5 +41,5 @@ Permet de saisir une **référence à un contrat** (à privilégier) ou à ident
 ## matériau
 [cf. page dédiée](Communs/materiau)
 
-## z_tampon, z_radier, profondeur
+## cote_tampon, cote_radier, profondeur
 Il s'agit là des altitudes connues : au niveau du tampon (au centre), à la coté radier fil d'eau moyen. Le champ profondeur peut être calculée depuis les valeurs z, ou, et plus généralement, lever directement afin de donner une indication.
