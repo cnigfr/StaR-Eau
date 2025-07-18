@@ -39,7 +39,7 @@ Pour toutes questions, utilisez les [ISSUES](https://github.com/cnigfr/StaR-Eau/
 
 Le premier chantier de ce groupe a abouti à une symbologie SIG des réseaux d’eau et d’assainissement prête à l’emploi, disponible depuis septembre 2020 et téléchargeable ici [RELEASE](https://github.com/cnigfr/StaR-Eau/releases/), et retrouvez l'actu sur le site du [CNIG](http://cnig.gouv.fr/gt-reseaux-enterres-des-eaux-a23994.html), ou l’[Astee](https://www.astee.org/publications/symbologies-des-reseaux-deau-et-dassainissement-applicables-aux-systemes-dinformation-geographique-sig/)
 
-Retrouvez la [documentation simplifiée en cliquant ici](https://github.com/cnigfr/StaR-Eau/wiki/accueil-symbologie)
+Retrouvez la [documentation simplifiée en cliquant ici](https://cnigfr.github.io/StaR-Eau/)
 
 ## Version de septembre 2022
 
