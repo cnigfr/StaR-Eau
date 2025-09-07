@@ -16,8 +16,8 @@ Toutefois, le modèle se veut ouvert à d'autres bases ou fichiers, des identifi
 
 Aucune autre relation n'est nécessaire. les identifiants spécifiques aux tables filles ne sont donc pas nécessaires. Une table en héritage reçoit l'identifiant de sa table mère.
 
-![relation_heritage](https://github.com/user-attachments/assets/05163017-5a11-4889-a3c2-c6b59eb41962)
-![table_fille_heritage](https://github.com/user-attachments/assets/16384ab2-1659-431f-89a9-f72aa2eaa402)
+![relation_heritage](https://github.com/user-attachments/assets/05163017-5a11-4889-a3c2-c6b59eb41962){.rounded width="300"}
+![table_fille_heritage](https://github.com/user-attachments/assets/16384ab2-1659-431f-89a9-f72aa2eaa402){.rounded width="300"}
 
 # Dans une base sans héritage disponible
 Il y a  trois manières différentes de traduire une relation d’héritage :
@@ -31,7 +31,7 @@ Il y a  trois manières différentes de traduire une relation d’héritage :
 Dans notre cas, il faut que chaque table fille contienne les identifiants des tables mères. On voit ici l’intérêt de conserver les identifiants, le choix a été fait de les proposer dans le standard afin de normaliser leur noms.
 
 exemple avec les canalisation AEP (_à titre d'exemple, les champs et tables peuvent varier dans le modèle réel_)
-![modele_avec_pk](https://github.com/user-attachments/assets/7d86758e-7e74-4154-bba6-abfe569439dd)
+![modele_avec_pk](https://github.com/user-attachments/assets/7d86758e-7e74-4154-bba6-abfe569439dd){.rounded width="300"}
 
 ## Héritage par classe mère
 
@@ -39,7 +39,7 @@ Tous les attributs de la table fille sont reportées dans la classe mère.
 
 Dans le modèle présent, cela voudrait dire que la classe noeud récupère les attributs de toutes les tables. Ceci est juste impossible à gérer dans notre cas de figure. Exemple d'une table noeud avec quelques tables filles !!
 
-![table_mere_avectousattributs](https://github.com/user-attachments/assets/1f1f1382-8ff9-42b7-93e6-ebdc0704247f)
+![table_mere_avectousattributs](https://github.com/user-attachments/assets/1f1f1382-8ff9-42b7-93e6-ebdc0704247f){.rounded width="300"}
 
 ## Héritage par classe fille
 
@@ -48,7 +48,7 @@ Ici les attributs des classes mères sont ajoutés à la table fille. C'est ce q
 > [!important]
 > Une modification des geopackage est possible pour ne fournir qu'une seul identifiant (fid ou id_canalisation dans l'exemple suivant)
 
-![heritage_des_tables](https://github.com/user-attachments/assets/92c1c568-b339-439b-ba5e-f386cedf6b28)
+![heritage_des_tables](https://github.com/user-attachments/assets/92c1c568-b339-439b-ba5e-f386cedf6b28){.rounded width="300"}
 
 # Conservation des id_nom_table
 

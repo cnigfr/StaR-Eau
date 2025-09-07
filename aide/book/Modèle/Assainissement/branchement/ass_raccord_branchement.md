@@ -13,27 +13,27 @@ Les raccords sont les pièces qui permettent la connexion entre la canalisation 
 
 piquage consiste à percer le collecteur à un diamètre correspondant à celui du branchement
 
-![source DDTM](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgH_unCVDsiZtZbhw6SHjQ30sIJf7n27yfGA&s "piquage direct (pas bien)") 
+![source DDTM](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgH_unCVDsiZtZbhw6SHjQ30sIJf7n27yfGA&s "piquage direct (pas bien)"){.rounded width="300"}
 
 ## culotte
 
 Culotte en forme de Y
 
-![culotte en y](https://www.e-genieclimatique.com/wordpress/wp-content/uploads/2017/11/culotte-a-45%C2%B0-triple-emboitage-150x150.jpg "https://www.e-genieclimatique.com/")
+![culotte en y](https://www.e-genieclimatique.com/wordpress/wp-content/uploads/2017/11/culotte-a-45%C2%B0-triple-emboitage-150x150.jpg "https://www.e-genieclimatique.com/"){.rounded width="300"}
 
 ## té de branchement
 
 culotte de branchement en forme de T
 
-![culotte](https://www.e-genieclimatique.com/wordpress/wp-content/uploads/2017/11/culotte-87%C2%B030-embranchement-simple-MF-150x150.jpg "https://www.e-genieclimatique.com/") 
+![culotte](https://www.e-genieclimatique.com/wordpress/wp-content/uploads/2017/11/culotte-87%C2%B030-embranchement-simple-MF-150x150.jpg "https://www.e-genieclimatique.com/"){.rounded width="300"}
 
 ## selle de piquage
 
-![Source nicoll](https://www.nicoll.fr/sites/default/files/styles/variation_product_carousel_mobile/public/products/47361.jpg.webp?itok=-i_Ud7Pf)
+![Source nicoll](https://www.nicoll.fr/sites/default/files/styles/variation_product_carousel_mobile/public/products/47361.jpg.webp?itok=-i_Ud7Pf){.rounded width="300"}
 
 ## tulipe de piquage
 
-![source https://www.norham.fr/](https://www.norham.fr/upload/miniatures/3334/1000/photo-tulipe-de-piquage-tflex-montage.jpeg)
+![source https://www.norham.fr/](https://www.norham.fr/upload/miniatures/3334/1000/photo-tulipe-de-piquage-tflex-montage.jpeg){.rounded width="300"}
 
 # référence à la canalisation principale
 

@@ -13,7 +13,7 @@ Le code SANDRE fait référence à la typologie et localisation des points de me
 
 [Localisation globale du point de mesure](http://id.eaufrance.fr/nsa/47)
 
-[Autosurveillance des systèmes de collecte et de traitement des eaux usées](https://www.sandre.eaufrance.fr/notice-doc/autosurveillance-des-syst%C3%A8mes-de-collecte-et-de-traitement-des-eaux-us%C3%A9es-0) 
+[Autosurveillance des systèmes de collecte et de traitement des eaux usées](https://www.sandre.eaufrance.fr/notice-doc/autosurveillance-des-syst%C3%A8mes-de-collecte-et-de-traitement-des-eaux-us%C3%A9es-0)
 
 ## identifiant SANDRE (id_sandre)
 

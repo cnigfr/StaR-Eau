@@ -11,24 +11,24 @@ Ceci correspond au type de "boite de branchement" installée. Également appelé
 
 ### passage direct
 
-![https://www.dyka.fr](https://www.dyka.fr/sites/dyka/files/styles/market/public/images/2023-01/fr20053981-t.jpg?itok=4DL2IJTM){.rounded width="200"}
+![https://www.dyka.fr](https://www.dyka.fr/sites/dyka/files/styles/market/public/images/2023-01/fr20053981-t.jpg?itok=4DL2IJTM){.rounded width="300"}
 
 ### siphoïde
-![source big mat](https://medias.bigmat.fr/data_medias/medias_finaux/images/3306490026061-aePpFmBV1v-fiche.jpg)
+![source big mat](https://medias.bigmat.fr/data_medias/medias_finaux/images/3306490026061-aePpFmBV1v-fiche.jpg){.rounded width="300"}
 
-![source gedimat](https://uploads.gedimat.fr/PHOTO1/0000124/petit_654524.jpg)
+![source gedimat](https://uploads.gedimat.fr/PHOTO1/0000124/petit_654524.jpg){.rounded width="300"}
 
 ### disconnecteur
-![source PUM plastic](https://static.mypum.fr//media/produit/P2494/tabouret-disconnecteur-2.webp)
+![source PUM plastic](https://static.mypum.fr//media/produit/P2494/tabouret-disconnecteur-2.webp){.rounded width="300"}
 
 ### té
-![source Nicoll](https://www.nicoll.fr/sites/default/files/styles/product_images_small_carousel_desktop/public/products/64248.jpg.webp?itok=pyfY7rb_)
+![source Nicoll](https://www.nicoll.fr/sites/default/files/styles/product_images_small_carousel_desktop/public/products/64248.jpg.webp?itok=pyfY7rb_){.rounded width="300"}
 
 ### borgne
 
 ### étanche
 
-![source https://www.boesken.de/](https://www.boesken.de/media/image/84/31/06/downloadTkBDeFTV94v0z_200x200.jpg)
+![source https://www.boesken.de/](https://www.boesken.de/media/image/84/31/06/downloadTkBDeFTV94v0z_200x200.jpg){.rounded width="300"}
 
 ## type d'usager
 Le type d'usager permet de connaître le type de rejet.

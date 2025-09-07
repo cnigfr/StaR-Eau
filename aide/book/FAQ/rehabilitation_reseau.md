@@ -10,4 +10,4 @@ Une réhabilitation se saisie dans les données attributaires. Plusieurs champs 
 
 Par exemple, pour une canalisation d'eau potable (données fictives pour illustration)
 
-![cas_rehab](/images/modele/rehabilitation_attributs.png)
+![cas_rehab](/images/modele/rehabilitation_attributs.png){.rounded width="300"}

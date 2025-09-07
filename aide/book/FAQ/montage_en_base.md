@@ -16,33 +16,33 @@ Le découpage des fichiers sql d'aide à la création d'une base Postgis doivent
 ou avec une gestion différenciée des branchements
 Le montage ne comporte alors que les tables mères, les tables communes, et les schémas aep
 
-![d_montage_base](/images/modele/d_montage_base.png)
+![d_montage_base](/images/modele/d_montage_base.png){.rounded width="300"}
 
 On peut aussi faire la même chose pour un service qui ne gère que les branchements.
 
-![c_montage_base](/images/modele/c_montage_base.png)
+![c_montage_base](/images/modele/c_montage_base.png){.rounded width="300"}
 
 ### Service AEP réseau et branchements
 Sans doute le plus courant, il existe toutefois 2 possibilités :
 1. reprendre les montages ci-dessus en créant 2 bases, et en renommant les tables mères (exemple : noeud_reseau --> noeud_branchement ou noeud_reseau_brcht...).
 2. utiliser les mêmes tables mères (canalisation, emprise, noeud_reseau). Les points, lignes, surfaces des branchements seront dans les mêmes tables que le reste et la numérotation se suivra entre objets "réseau" et les objets "branchement".
 
-![b_montage_base](/images/modele/b_montage_base.png)
+![b_montage_base](/images/modele/b_montage_base.png){.rounded width="300"}
 
 ## Assainissement seul
 Comme pour l'AEP
 ### Service sans la gestion des branchements
 ou avec une gestion différenciée des branchements
 
-![g_montage_base](/images/modele/g_montage_base.png)
+![g_montage_base](/images/modele/g_montage_base.png){.rounded width="300"}
 
 que les branchements :
 
-![f_montage_base](/images/modele/f_montage_base.png)
+![f_montage_base](/images/modele/f_montage_base.png){.rounded width="300"}
 
 ### Service ASS réseau et branchements
 
-![e_montage_base](/images/modele/e_montage_base.png)
+![e_montage_base](/images/modele/e_montage_base.png){.rounded width="300"}
 
 # gestion combinée
 
@@ -50,7 +50,7 @@ Il peut exister aussi la possibilité de créer un service complet eau et assain
 
 Les tables mères peuvent être communes à toutes les tables.
 
-![a_montage_base](/images/modele/a_montage_base.png)
+![a_montage_base](/images/modele/a_montage_base.png){.rounded width="300"}
 
 On peut aussi réaliser toutes les combinaisons intermédiaires (que réseau avec tables mères communes, que branchement avec table communes, tables mère communes pour réseau et autre tables mère pour les branchements...).
 

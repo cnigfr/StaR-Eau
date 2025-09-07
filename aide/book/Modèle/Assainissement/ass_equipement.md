@@ -14,15 +14,15 @@ Ils sont forcément topologiques.
 
 ## clapet
 
-![source https://tameson.fr/pages/clapet-anti-retour-pour-egouts](https://storage.tameson.com/asset/Articles/general/check-valve-backflow.png "source https://tameson.fr/pages/clapet-anti-retour-pour-egouts")
+![source https://tameson.fr/pages/clapet-anti-retour-pour-egouts](https://storage.tameson.com/asset/Articles/general/check-valve-backflow.png "source https://tameson.fr/pages/clapet-anti-retour-pour-egouts"){.rounded width="300"}
 
 ## batardeau
 
-![https://www.althon.co.uk/products/althon-stop-logs/](https://althon.s3.amazonaws.com/uploads/page_content/stop-logs-web-ready.jpg "https://www.althon.co.uk/products/althon-stop-logs/")
+![https://www.althon.co.uk/products/althon-stop-logs/](https://althon.s3.amazonaws.com/uploads/page_content/stop-logs-web-ready.jpg "https://www.althon.co.uk/products/althon-stop-logs/"){.rounded width="300"}
 
 ## Barrage à poutrelle
 
-![source http://wikhydro.developpement-durable.gouv.fr/](http://wikhydro.developpement-durable.gouv.fr/images/thumb/1/18/Batardeau.JPG/800px-Batardeau.JPG "source http://wikhydro.developpement-durable.gouv.fr/")
+![source http://wikhydro.developpement-durable.gouv.fr/](http://wikhydro.developpement-durable.gouv.fr/images/thumb/1/18/Batardeau.JPG/800px-Batardeau.JPG "source http://wikhydro.developpement-durable.gouv.fr/"){.rounded width="300"}
 
 ## porte à flots
 
@@ -30,18 +30,18 @@ image, svp
 
 ## ventouse
 
-![source https://www.avk.fr/](https://files.avkvalves.com/updated-ftp/images800/70178_p_177999.jpg "source https://www.avk.fr/")
+![source https://www.avk.fr/](https://files.avkvalves.com/updated-ftp/images800/70178_p_177999.jpg "source https://www.avk.fr/"){.rounded width="300"}
 
 ## vanne
 
-![https://www.pamline.fr/](https://www.pamline.fr/sites/pamline.fr/files/vanne-guillotine.jpg "https://www.pamline.fr/")
+![https://www.pamline.fr/](https://www.pamline.fr/sites/pamline.fr/files/vanne-guillotine.jpg "https://www.pamline.fr/"){.rounded width="300"}
 
 ## orifice
 
-![source http://wikhydro.developpement-durable.gouv.fr/](http://wikhydro.developpement-durable.gouv.fr/images/0/0b/Ajutage_1.JPG "source http://wikhydro.developpement-durable.gouv.fr/") 
+![source http://wikhydro.developpement-durable.gouv.fr/](http://wikhydro.developpement-durable.gouv.fr/images/0/0b/Ajutage_1.JPG "source http://wikhydro.developpement-durable.gouv.fr/"){.rounded width="300"}
 
 ## venturi
 
-![source https://www.bamo.fr/](https://www.bamo.fr/cbx/_hcc/n_63342_1_p755-01.jpg "source https://www.bamo.fr/")
+![source https://www.bamo.fr/](https://www.bamo.fr/cbx/_hcc/n_63342_1_p755-01.jpg "source https://www.bamo.fr/"){.rounded width="300"}
 
 # seuil et déversoirs d'orage
