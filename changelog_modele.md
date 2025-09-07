@@ -1,6 +1,6 @@
 # Changelog - Journal des modifications
 
-// Last modified: 2025/06/27 10:48:19
+// Last modified: 2025/09/07 20:55:36
 
 Tous les changements notables du modèle sont listés ici. Merci de respecter la format.
 Le format de ce fichier est basé sur [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/)
@@ -9,14 +9,14 @@ Le format de ce fichier est basé sur [Keep a Changelog](https://keepachangelog.
 
 ### Added - Ajouté
 
-- ajout des champs cunette et decantation dans **ASS_REGARDS**
+- ajout des champs cunette et decantation dans **ASS_REGARD**
 - ajout d'un champ grandeur_consigne et de la liste associé dans **AEP_REGULATION**
 
 ### fixed - Corrigé
 
 ### Changed - Changé
 
-- modification pour uniformisation des termes incluant les cotes NGF de points : remplacement de *z_* par *cote_* dans **ass_canalisation**,**ass_canalisation_branchement**,**ass_point_collecte**
+- modification pour uniformisation des termes incluant les cotes NGF de points : remplacement de *z_* par *cote_* dans **ass_canalisation**,**ass_regard**,**ass_canalisation_branchement**,**ass_point_collecte**
 - modification pour cohérence du terme *profondeur* dans **ass_point_collecte**
 
 ### Removed - Retiré
