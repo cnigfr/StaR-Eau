@@ -1,7 +1,5 @@
 ---
 name: ass_point_collecte
-styles: 
-    - /public/style.css
 index: 1
 ---
 
@@ -13,7 +11,7 @@ Ceci correspond au type de "boite de branchement" installée. Également appelé
 
 ### passage direct
 
-![https://www.dyka.fr](https://www.dyka.fr/sites/dyka/files/styles/market/public/images/2023-01/fr20053981-t.jpg?itok=4DL2IJTM)
+![https://www.dyka.fr](https://www.dyka.fr/sites/dyka/files/styles/market/public/images/2023-01/fr20053981-t.jpg?itok=4DL2IJTM){.rounded width="200"}
 
 ### siphoïde
 ![source big mat](https://medias.bigmat.fr/data_medias/medias_finaux/images/3306490026061-aePpFmBV1v-fiche.jpg)
