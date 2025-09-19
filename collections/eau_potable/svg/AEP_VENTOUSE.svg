@@ -92,11 +92,11 @@
      stroke-miterlimit="10"
      d="m 4.49488,-53.03958 c -0.577,3.516 2.525,-28.244 30.289,-28.244 30.298,0 30.505,31.501 30.291,28.246"
      id="path4"
-     style="fill:none;stroke:param(outline) #000000;stroke-width:param(outline-width) 1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:param(outline);stroke-width:param(outline-width) 1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6;stroke-dasharray:none;stroke-opacity:1"
      inkscape:connector-curvature="0" />
   <path
      id="path826"
-     style="fill:none;fill-rule:evenodd;stroke:param(outline) #000000;stroke-width:param(outline-width) 1.2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;fill-rule:evenodd;stroke:param(outline);stroke-width:param(outline-width) 1.2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 52.91688,-60.214192 34.836719,-30.274041 M 16.42088,-60.101694 34.836719,-30.274041 34.771879,3.0639977"
      inkscape:connector-curvature="0" />
 </svg>

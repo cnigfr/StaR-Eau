@@ -99,9 +99,9 @@
        cy="45.5"
        r="45.5"
        id="circle2737"
-       style="fill:param(fill) #fff;fill-opacity:param(fill-opacity) 1;stroke:param(outline) #000;stroke-width:6;stroke-miterlimit:10;stroke-opacity:1" />
+       style="fill:param(fill);fill-opacity:param(fill-opacity) 1;stroke:param(outline);stroke-width:6;stroke-miterlimit:10;stroke-opacity:1" />
     <path
-       style="fill:param(outline) #000;fill-opacity:1;stroke:none"
+       style="fill:param(outline);fill-opacity:1;stroke:none"
        d="m 22.112001,20.157001 c -0.017,-1.016 0.96,-1.411 1.69,-1.045 l 40.603,24.894 c 0.624,0.299 0.437,0.592 0,0.829 l -40.603,25.025 c -0.742,0.464 -1.73,0.186 -1.691,-0.81 v -48.891 z m 45.242,-3.886 c 0.85,0 1.542,0.748 1.542,1.67 v 53.172 c 0,0.926 -0.692,1.674 -1.542,1.674 -0.852,0 -1.543,-0.748 -1.543,-1.674 v -53.172 c 0,-0.922 0.69,-1.67 1.543,-1.67 z"
        id="path2739"
        inkscape:connector-curvature="0" />

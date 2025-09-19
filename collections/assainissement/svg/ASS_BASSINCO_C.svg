@@ -84,14 +84,14 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1689" />
   <path
-     fill="param(fill) #FFFFFF"
+     fill="param(fill)"
      fill-opacity="param(fill-opacity) 1"
      d="M 0.19726562,0.17382812 H 99.765625 V 99.037109 H 0.19726562 Z"
      id="path1683"
      inkscape:connector-curvature="0"
      style="stroke-width:1.00345588" />
   <path
-     fill="param(outline) #000"
+     fill="param(outline)"
      d="M 99.765625 0.171875 L 0.19726562 0.17382812 L 0.19726562 99.037109 L 99.765625 99.037109 L 99.765625 0.171875 z M 4.3476562 4.2929688 L 95.615234 4.2929688 L 95.615234 94.917969 L 4.3476562 94.917969 L 4.3476562 4.2929688 z M 11.265625 51.705078 C 11.265625 65.019078 18.412625 77.321516 30.015625 83.978516 A 37.71 37.71 0 0 0 67.517578 83.978516 C 79.118578 77.321516 86.267578 65.019078 86.267578 51.705078 L 11.265625 51.705078 z "
      id="path1685" />
 </svg>

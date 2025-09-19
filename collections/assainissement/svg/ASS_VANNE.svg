@@ -48,7 +48,7 @@
     </rdf:RDF>
   </metadata>
   
-    <circle fill="param(fill) #FFFFFF" fill-opacity="param(fill-opacity) 1" stroke="param(outline) #000" stroke-width="6" stroke-miterlimit="10" cx="49.606" cy="49.606" r="46.75"/>
-    <path fill="param(outline) #000" d="M48.46 49.605c.91-.951 1.443-.897 2.294 0L71.667 76.38c.598.61.567 1.4-.82 1.396H27.992c-1.276.018-1.3-.84-.57-1.396L48.46 49.605z"/>
-    <path fill="param(outline) #000" d="M50.754 49.605c-.909.95-1.442.897-2.294 0l-20.914-26.77c-.596-.61-.569-1.4.822-1.398H71.22c1.275-.018 1.302.84.57 1.397L50.754 49.605z"/>
+    <circle fill="param(fill)" fill-opacity="param(fill-opacity) 1" stroke="param(outline)" stroke-width="6" stroke-miterlimit="10" cx="49.606" cy="49.606" r="46.75"/>
+    <path fill="param(outline)" d="M48.46 49.605c.91-.951 1.443-.897 2.294 0L71.667 76.38c.598.61.567 1.4-.82 1.396H27.992c-1.276.018-1.3-.84-.57-1.396L48.46 49.605z"/>
+    <path fill="param(outline)" d="M50.754 49.605c-.909.95-1.442.897-2.294 0l-20.914-26.77c-.596-.61-.569-1.4.822-1.398H71.22c1.275-.018 1.302.84.57 1.397L50.754 49.605z"/>
 </svg>

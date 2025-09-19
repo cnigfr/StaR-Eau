@@ -49,12 +49,12 @@
     </rdf:RDF>
   </metadata>
       <g transform="translate(0 -281)">
-        <path d="m58.8 288c-5.09-5.07-13.4-5.08-18.5-8e-3l-33.2 33.1c-5.09 5.07-5.08 13.3 0.0102 18.4l33.2 33c5.09 5.07 13.4 5.07 18.5 0l33.2-33c5.09-5.07 5.09-13.3 0-18.4zm-5.83 42.2z" fill="param(fill)#ffffff" fill-opacity="param(fill-opacity) 1" stroke="param(outline) #000" stroke-width="6.69"/>
+        <path d="m58.8 288c-5.09-5.07-13.4-5.08-18.5-8e-3l-33.2 33.1c-5.09 5.07-5.08 13.3 0.0102 18.4l33.2 33c5.09 5.07 13.4 5.07 18.5 0l33.2-33c5.09-5.07 5.09-13.3 0-18.4zm-5.83 42.2z" fill="param(fill)#ffffff" fill-opacity="param(fill-opacity) 1" stroke="param(outline)" stroke-width="6.69"/>
     </g>
     <g transform="translate(.843)">
         <a>
-            <line x1="48.7" x2="48.7" y1="12.8" y2="54.8" fill="none" stroke="param(outline) #000" stroke-width="7"/>
+            <line x1="48.7" x2="48.7" y1="12.8" y2="54.8" fill="none" stroke="param(outline)" stroke-width="7"/>
         </a>
-        <polygon transform="translate(-.866 -2.32)" points="36.3 57.1 62.9 57.1 49.6 86.1" fill="param(outline) #000"/>
+        <polygon transform="translate(-.866 -2.32)" points="36.3 57.1 62.9 57.1 49.6 86.1" fill="param(outline)"/>
     </g>
 </svg>

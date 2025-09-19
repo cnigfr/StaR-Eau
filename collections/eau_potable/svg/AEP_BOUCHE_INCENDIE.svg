@@ -49,9 +49,9 @@
   </metadata>
   
 <!-- coin noir haut gauche -->
-    <path fill="param(fill) #000" d="M97.069 2.142L2.144 97.071V2.142z"/>
+    <path fill="param(fill)" d="M97.069 2.142L2.144 97.071V2.142z"/>
 <!-- coin blanc bas droit -->
     <path fill="#FFF" d="M2.145 97.071L97.069 2.142v94.929z"/>
 <!-- contour -->
-    <path fill="none" stroke="param(outline) #000" stroke-width="param(outline-width) 2" stroke-miterlimit="10" d="M2.144 2.142h94.925v94.927H2.144z"/>
+    <path fill="none" stroke="param(outline)" stroke-width="param(outline-width) 2" stroke-miterlimit="10" d="M2.144 2.142h94.925v94.927H2.144z"/>
 </svg>

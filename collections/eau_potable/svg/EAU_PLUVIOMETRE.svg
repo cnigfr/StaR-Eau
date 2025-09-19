@@ -55,6 +55,6 @@
       fill="none" stroke="#000" stroke-width="3" stroke-linecap="square" id="path2"/>
     </pattern>
   </defs>
-  <path d="M151.696 6.816L397.573 495.5 640.335 6.816h-488.64z" id="path7" style="fill:param(outline) #000;fill-opacity:param(outline-opacity) 1"/>
-  <path d="M397.574 348.434V704.66M533.132 704.66H258.871" fill="none" stroke="param(outline) #000" stroke-width="21.65784" id="path9"/>
+  <path d="M151.696 6.816L397.573 495.5 640.335 6.816h-488.64z" id="path7" style="fill:param(outline);fill-opacity:param(outline-opacity) 1"/>
+  <path d="M397.574 348.434V704.66M533.132 704.66H258.871" fill="none" stroke="param(outline)" stroke-width="21.65784" id="path9"/>
 </svg>

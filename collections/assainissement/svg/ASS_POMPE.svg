@@ -54,6 +54,6 @@
    <stop stop-color="#9e2828" offset="0"/>
   </linearGradient>
  </defs>
- <circle cx="50" cy="50" r="47" fill="param(fill) #fff" fill-opacity="param(fill-opacity) 1" stroke-width="param(outline-width) 1" stroke="param(outline) #000" stroke-width="6"/>
- <path fill="param(outline) #000" d="m29 19c0.2-2 0.9-3 3-2l53 30c1 0.6 2 2 0.4 3l-54 31c-2 1-2-0.5-2-2z" inkscape:connector-curvature="0"/>
+ <circle cx="50" cy="50" r="47" fill="param(fill)" fill-opacity="param(fill-opacity) 1" stroke-width="param(outline-width) 1" stroke="param(outline)" stroke-width="6"/>
+ <path fill="param(outline)" d="m29 19c0.2-2 0.9-3 3-2l53 30c1 0.6 2 2 0.4 3l-54 31c-2 1-2-0.5-2-2z" inkscape:connector-curvature="0"/>
 </svg>

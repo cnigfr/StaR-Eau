@@ -54,12 +54,12 @@
         </filter>
     </defs>
     <g filter="url(#filter5123)">
-        <circle cx="60" cy="60" r="48" fill-opacity="param(fill-opacity) 1" fill="param(fill) #ffffff" stroke-miterlimit="10"/>
+        <circle cx="60" cy="60" r="48" fill-opacity="param(fill-opacity) 1" fill="param(fill)" stroke-miterlimit="10"/>
     </g>
     <g >
-        <path d="m26 94a48 48 0 0 1-1e-6 -67 48 48 0 0 1 67-2e-6l-34 34z" fill="param(outline) #000000" filter="url(#filter5123)" stroke-miterlimit="10"/>
+        <path d="m26 94a48 48 0 0 1-1e-6 -67 48 48 0 0 1 67-2e-6l-34 34z" fill="param(outline)" filter="url(#filter5123)" stroke-miterlimit="10"/>
     </g>
     <g >
-        <circle cx="60" cy="60" r="48" fill="none" filter="url(#filter5123)" stroke-width="param(outline-width) 1" stroke="param(outline) #000000" stroke-miterlimit="10"/>
+        <circle cx="60" cy="60" r="48" fill="none" filter="url(#filter5123)" stroke-width="param(outline-width) 1" stroke="param(outline)" stroke-miterlimit="10"/>
     </g>
 </svg>

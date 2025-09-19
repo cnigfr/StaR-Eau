@@ -107,8 +107,8 @@
      id="path2224"
      style="stroke:#4b3912;fill:#e28282;fill-opacity:1;stroke-opacity:1"
      stroke-width="6.694"
-     stroke="param(outline)#000009"
-     fill="param(fill)#fff"
+     stroke="param(outline)"
+     fill="param(fill)"
      fill-opacity="param(fill-opacity) 1"  />
   <g >   
     <path
@@ -116,10 +116,10 @@
         transform="matrix(.58165 -.01014 .01098 .5375 91.821 49.13)"
         id="path2226"
         stroke="none"
-        fill="param(outline) #000"
+        fill="param(outline)"
        />
     <path
-        fill="param(outline) #000"
+        fill="param(outline)"
         stroke="none"
         d="M40.641 33.724c5.325-1.808 10.547-1.652 14.73-.78 2.048.428 3.65.948 6.117 2.086 1.657.765 4.556 2.029 5.218 3.717.886 2.252-.2 4.152-1.68 4.611-1.65.514-3.444-1.236-4.905-1.965-4.768-2.379-10.32-3.514-16.805-1.745-6.165 1.68-10.997 5.795-14.078 10.257-1.192 1.729-1.812 3.86-3.224 4.352-1.686.587-3.291-.665-3.7-2.301-.543-2.165 1.545-4.786 2.42-6.083 2.49-3.685 5.178-6.425 9.142-8.993 1.99-1.291 4.139-2.265 6.765-3.156z"
         id="path2228" />
@@ -127,7 +127,7 @@
         d="M49.606 16.578l.251 66.082v0"
         id="path2230"
         stroke-width="5.669"
-        stroke="param(outline) #000"
-        fill="param(outline) #000" />
+        stroke="param(outline)"
+        fill="param(outline)" />
     </g>
 </svg>

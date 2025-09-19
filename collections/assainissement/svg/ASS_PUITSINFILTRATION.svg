@@ -49,6 +49,6 @@
     </rdf:RDF>
   </metadata>
    <sodipodi:namedview bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" inkscape:current-layer="svg2574" inkscape:cx="49.606499" inkscape:cy="49.606499" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="1370" inkscape:window-maximized="1" inkscape:window-width="2560" inkscape:window-x="0" inkscape:window-y="42" inkscape:zoom="12.024634" objecttolerance="10" pagecolor="#ffffff" showgrid="false"/>
- <path d="m26 4h47c13 0 23 10 23 23v47c0 13-10 23-23 23h-47c-13 0-23-10-23-23v-47c1e-3 -13 10-23 23-23z" fill="param(fill) #fff" fill-opacity="param(fill-opacity) 1"  stroke="param(outline) #000" stroke-width="7"/>
- <circle cx="50" cy="50" r="30" fill="none" stroke="param(outline) #000" stroke-width="7"/>
+ <path d="m26 4h47c13 0 23 10 23 23v47c0 13-10 23-23 23h-47c-13 0-23-10-23-23v-47c1e-3 -13 10-23 23-23z" fill="param(fill)" fill-opacity="param(fill-opacity) 1"  stroke="param(outline)" stroke-width="7"/>
+ <circle cx="50" cy="50" r="30" fill="none" stroke="param(outline)" stroke-width="7"/>
 </svg>

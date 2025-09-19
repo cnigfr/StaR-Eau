@@ -49,11 +49,11 @@
     </rdf:RDF>
   </metadata>
    <sodipodi:namedview bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" inkscape:current-layer="svg24" inkscape:cx="43.336475" inkscape:cy="-5.1230263" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="903" inkscape:window-maximized="0" inkscape:window-width="1742" inkscape:window-x="385" inkscape:window-y="497" inkscape:zoom="3.3640189" objecttolerance="10" pagecolor="#ffffff" showgrid="false"/>
- <path d="m14 34 37-8v70l-37-10v-52l37-8 37 10v52l-37 8" fill="param(fill) #fff" fill-opacity="param(fill-opacity) 1"  stroke="param(outline) #000" stroke-linecap="round" stroke-miterlimit="10" inkscape:connector-curvature="0"/>
- <path d="m73 15-42-11 19 22 43 11z" fill="param(fill) #fff"  fill-opacity="param(fill-opacity) 1"   stroke="param(outline) #000" stroke-linecap="round" stroke-miterlimit="10" inkscape:connector-curvature="0"/>
- <path d="m51 26 37 10m-79-1 42-9m0 0-19-21m0 0-22 30" fill="none" stroke="param(outline) #000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6" inkscape:connector-curvature="0"/>
- <path d="m31 4 42 11m20 22-20-22" fill="param(fill) #fff"  fill-opacity="param(fill-opacity) 1"  stroke="param(outline) #000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6" inkscape:connector-curvature="0"/>
- <path d="m13 32 19-26 18 18-37 8" fill="param(outline) #000" stroke="param(outline) #000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6" inkscape:connector-curvature="0"/>
- <path d="m14 34 37-8m-37 8v52l37 10v-70l37 10v52l-37 8" fill="none" stroke="param(outline) #000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6" inkscape:connector-curvature="0"/>
- <path d="m31 4 19 22" fill="param(fill) #fff"  fill-opacity="param(fill-opacity) 1"  stroke="param(outline) #000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6" inkscape:connector-curvature="0"/>
+ <path d="m14 34 37-8v70l-37-10v-52l37-8 37 10v52l-37 8" fill="param(fill)" fill-opacity="param(fill-opacity) 1"  stroke="param(outline)" stroke-linecap="round" stroke-miterlimit="10" inkscape:connector-curvature="0"/>
+ <path d="m73 15-42-11 19 22 43 11z" fill="param(fill)"  fill-opacity="param(fill-opacity) 1"   stroke="param(outline)" stroke-linecap="round" stroke-miterlimit="10" inkscape:connector-curvature="0"/>
+ <path d="m51 26 37 10m-79-1 42-9m0 0-19-21m0 0-22 30" fill="none" stroke="param(outline)" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6" inkscape:connector-curvature="0"/>
+ <path d="m31 4 42 11m20 22-20-22" fill="param(fill)"  fill-opacity="param(fill-opacity) 1"  stroke="param(outline)" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6" inkscape:connector-curvature="0"/>
+ <path d="m13 32 19-26 18 18-37 8" fill="param(outline)" stroke="param(outline)" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6" inkscape:connector-curvature="0"/>
+ <path d="m14 34 37-8m-37 8v52l37 10v-70l37 10v52l-37 8" fill="none" stroke="param(outline)" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6" inkscape:connector-curvature="0"/>
+ <path d="m31 4 19 22" fill="param(fill)"  fill-opacity="param(fill-opacity) 1"  stroke="param(outline)" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6" inkscape:connector-curvature="0"/>
 </svg>

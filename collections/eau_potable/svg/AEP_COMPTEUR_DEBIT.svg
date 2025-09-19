@@ -48,10 +48,10 @@
     </rdf:RDF>
   </metadata>
   
-    <path fill="param(fill) #FFFFFF" fill-opacity="param(fill-opacity) 1" stroke="param(outline) #000000" stroke-width="param(outline-width) 0.6" stroke-miterlimit="10" d="M24.606 92.908l-25-43.302 25-43.301h50l25 43.301-25 43.302z"/>
-    <path fill="param(fill) #FFFFFF" fill-opacity="param(fill-opacity) 1" d="M19.329 48.895c0-16.162 13.535-29.265 30.228-29.265 16.695 0 30.229 13.104 30.229 29.265 0 16.165-13.533 29.267-30.229 29.267-16.694.001-30.228-13.102-30.228-29.267z"/>
-    <path fill="param(fill) #FFFFFF" fill-opacity="param(fill-opacity) 1" stroke="param(outline) #000" stroke-width="param(outline-width) 3" stroke-miterlimit="8" d="M19.329 48.895c0-16.162 13.535-29.265 30.228-29.265 16.695 0 30.229 13.104 30.229 29.265 0 16.165-13.533 29.267-30.229 29.267-16.694.001-30.228-13.102-30.228-29.267h0z"/>
-    <path fill="none" stroke="param(outline) #00000" stroke-width="param(outline-width) 3" stroke-miterlimit="8" d="M17.834 79.583l58.82-53.922"/>
+    <path fill="param(fill)" fill-opacity="param(fill-opacity) 1" stroke="param(outline)" stroke-width="param(outline-width) 0.6" stroke-miterlimit="10" d="M24.606 92.908l-25-43.302 25-43.301h50l25 43.301-25 43.302z"/>
+    <path fill="param(fill)" fill-opacity="param(fill-opacity) 1" d="M19.329 48.895c0-16.162 13.535-29.265 30.228-29.265 16.695 0 30.229 13.104 30.229 29.265 0 16.165-13.533 29.267-30.229 29.267-16.694.001-30.228-13.102-30.228-29.267z"/>
+    <path fill="param(fill)" fill-opacity="param(fill-opacity) 1" stroke="param(outline)" stroke-width="param(outline-width) 3" stroke-miterlimit="8" d="M19.329 48.895c0-16.162 13.535-29.265 30.228-29.265 16.695 0 30.229 13.104 30.229 29.265 0 16.165-13.533 29.267-30.229 29.267-16.694.001-30.228-13.102-30.228-29.267h0z"/>
+    <path fill="none" stroke="param(outline)" stroke-width="param(outline-width) 3" stroke-miterlimit="8" d="M17.834 79.583l58.82-53.922"/>
     <!-- fleche -->
-    <path fill="param(outline) #000000"  d="M69.819 43.05l11.56-21.487-22.385 9.676z"/>
+    <path fill="param(outline)"  d="M69.819 43.05l11.56-21.487-22.385 9.676z"/>
 </svg>

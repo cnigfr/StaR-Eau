@@ -48,5 +48,5 @@
     </rdf:RDF>
   </metadata>
   
-    <path fill="param(fill) #FFFFFF" fill-opacity="param(fill-opacity) 1" stroke="param(outline) #000000" stroke-width="6" stroke-miterlimit="8" d="M3.559 3.856l92.297 20.351V74.96L3.559 95.366z"/>
+    <path fill="param(fill)" fill-opacity="param(fill-opacity) 1" stroke="param(outline)" stroke-width="6" stroke-miterlimit="8" d="M3.559 3.856l92.297 20.351V74.96L3.559 95.366z"/>
 </svg>

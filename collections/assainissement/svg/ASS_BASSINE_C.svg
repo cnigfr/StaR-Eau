@@ -87,9 +87,9 @@
      d="M 1.3216298,1.6611463 H 98.209077 V 97.38331 H 1.3216298 Z"
      id="path2448"
      inkscape:connector-curvature="0"
-     style="fill:param(fill) #fff;fill-opacity:param(fill-opacity) 1;stroke-width:0.97064519" />
+     style="fill:param(fill);fill-opacity:param(fill-opacity) 1;stroke-width:0.97064519" />
   <path
-     fill="param(outline) #000"
+     fill="param(outline)"
      d="M -0.001953125 0.00390625 L -0.001953125 99.212891 L 99.207031 99.212891 L 99.207031 0.00390625 L -0.001953125 0.00390625 z M 4.1328125 4.140625 L 95.070312 4.140625 L 95.070312 95.078125 L 4.1328125 95.078125 L 4.1328125 4.140625 z M 9.3007812 49.607422 A 40.305 40.305 0 0 0 29.453125 84.511719 A 40.313 40.313 0 0 0 69.761719 84.511719 A 40.314 40.314 0 0 0 89.914062 49.607422 L 9.3007812 49.607422 z "
      id="path2450" />
 </svg>

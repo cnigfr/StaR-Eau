@@ -48,5 +48,5 @@
     </rdf:RDF>
   </metadata>
   
-<path fill="param(fill) #000000" fill-opacity="param(fill-opacity) 1" d="M32.19 32.19h34.833v34.833H32.19z"/>
+<path fill="param(fill)" fill-opacity="param(fill-opacity) 1" d="M32.19 32.19h34.833v34.833H32.19z"/>
 </svg>

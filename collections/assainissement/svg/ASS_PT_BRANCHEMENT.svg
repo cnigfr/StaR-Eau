@@ -48,5 +48,5 @@
     </rdf:RDF>
   </metadata>
   
-<circle fill="param(fill) #000000" fill-opacity="param(fill-opacity) 1" cx="49.607" cy="332.952" r="19.833" transform="translate(-.001 -283.345)"/>
+<circle fill="param(fill)" fill-opacity="param(fill-opacity) 1" cx="49.607" cy="332.952" r="19.833" transform="translate(-.001 -283.345)"/>
 </svg>

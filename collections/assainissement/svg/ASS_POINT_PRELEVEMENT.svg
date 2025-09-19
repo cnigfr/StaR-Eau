@@ -84,9 +84,9 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2371" />
   <circle
-     fill="param(fill) #fff"
+     fill="param(fill)"
      fill-opacity="param(fill-opacity) 1"
-     stroke="param(outline) #000"
+     stroke="param(outline)"
      stroke-width="param(outline-width) 1"
      cx="49.605999"
      cy="-49.605999"    
@@ -97,12 +97,12 @@
     <path
 
        id="path2367"
-       fill="param(outline) #000"
+       fill="param(outline)"
        d="m 16.217998,82.994 c 10e-4,0.003 -0.002,0 0,0 18.787,18.786 49.485,17.292 66.777,0 l -33.388,-33.389 z"
        inkscape:connector-curvature="0"
         />
     <path
-        fill="param(outline) #000"
+        fill="param(outline)"
 
        id="path2369"
        d="m 82.994002,16.216 c 0.001,-0.002 0.003,-0.001 0,0 C 64.207998,-2.57 33.511998,-1.076 16.218998,16.217 l 33.388,33.388 z"
