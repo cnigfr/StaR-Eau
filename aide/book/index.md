@@ -32,6 +32,9 @@ Vous trouverez différents chapitre :
 :::alert{warn}
 les pages de ce wiki n'ont pas fait l'objet de validation en commission, elles sont ici servies pour exemple et réflexions lors des saisies d'essais. Elles seront complétées au fur et à mesure des mises à jour.
 :::
+:::alert{info}
+Nous recherchons des photos libre de droits pour illustrer les articles. Merci de les faire parvenir aux contributeurs
+:::
 
 <----- Table des matières dans le menu à gauche <-----
 

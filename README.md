@@ -9,6 +9,9 @@ Retrouvez le suivi du [groupe de travail de l'Astee](https://www.astee.org/?s=st
 
 Le groupe de travail de l’Astee ‘Standards SIG’ a été créé pour travailler sur des ressources ou livrables SIG standards facilitant l’usage des SIG par les exploitants ou gestionnaires des réseaux d’eau ou d’assainissement.
 
+> [!TIP]
+> Aidez nous à identifier les utilisateurs du Standard. Dîtes-nous que vous utilisez ou pourquoi vous n'utilisez pas le standard sur : https://stareau.gogocarto.fr/
+
 ## Objectif
 
 L’objectif de cette démarche est de proposer des évolutions des modèles de données Eau et Assainissement en zone urbaine, sur la base du modèle RAEPA avec les objectifs suivants :
