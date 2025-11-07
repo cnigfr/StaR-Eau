@@ -1,5 +1,5 @@
 # Changelog - Journal des modifications - liste de valeurs
-// Last modified: 2025/04/06 19:09:14
+// Last modified: 2025/11/08 00:05:35
 
 Tous les changements notables dans **les listes de valeurs** sont listés ici. Merci de respecter la format.
 Le format de ce fichier est basé sur [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/)
@@ -12,6 +12,7 @@ Les modifications de liste s'appliquent dans le répertoire "brutes avant import
 - Dans la liste __aep_fonction_point_mesure__ : prélèvement
 - Dans la liste __aep_fonction_branchement__ : fourniture
 - création de la liste __aep_grandeur_consigne__ : pression, débit, vitesse, niveau
+- création de la liste __aep_position_vanne__ : verticale, horizontale
 
 ### Changed - Changé
 - Dans la liste __aep_fonction_branchement__ : purge -> purge/vidange

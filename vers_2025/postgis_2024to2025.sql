@@ -1,7 +1,7 @@
 /*
  * postgis_2024to2025 - 2025-02-14
  * // Created: 2024/07/01 05:48:52
- * // Last modified: 2025/09/07 20:44:15
+ * // Last modified: 2025/11/08 00:12:24
  * ETALABV2 - Alain pour Astee / CNIG-2025
  *
  * Ce fichier est un document libre ; vous pouvez le redistribuer et/ou le modifier selon les termes de la
@@ -61,4 +61,32 @@ ALTER TABLE stareau_ass_brcht.ass_point_collecte RENAME COLUMN z_radier TO cote_
 ALTER TABLE stareau_ass_brcht.ass_point_collecte RENAME COLUMN profondeur TO profondeur_mesure;
 ALTER TABLE stareau_ass.ass_canalisation RENAME COLUMN altitude_fil_eau_amont TO cote_fil_eau_amont;
 ALTER TABLE stareau_ass.ass_canalisation RENAME COLUMN altitude_fil_eau_aval TO cote_fil_eau_aval;
+
+---ajout d'une valeur dans ass_type_raccord
+INSERT INTO stareau_valeur.ass_type_raccord (code,valeur,description) VALUES ('boite_borgne','boîte borgne','raccord en boite ou regard borgne');
+
+---ajout du champ position dans les vannes branchement
+ALTER TABLE stareau_aep_brcht.aep_vanne_branchement ADD "position" varchar NULL;
+COMMENT ON COLUMN stareau_aep_brcht.aep_vanne_branchement."position" IS '*position par rapport à la canalisation*';
+
+CREATE TABLE stareau_valeur.aep_position_vanne (
+	code text NOT NULL,
+	valeur text NOT NULL,
+	description text NULL,
+	CONSTRAINT aep_position_vanne_pk PRIMARY KEY (code)
+);
+COMMENT ON TABLE stareau_valeur.aep_position_vanne IS 'position relative des vannes de branchement';
+
+INSERT INTO stareau_valeur.aep_position_vanne (code,valeur,description) VALUES
+	 ('verticale','verticale','prise en charge verticale, à l''applomb de la canalisation'),
+	 ('horizontale','horizontale','prise en charge horizontale, la vanne est sur le flanc de la conduite'),
+	 ('independante','indépendante','sans prise en charge intégrée, la vanne est déporté de la conduite '),
+	 ('non_renseigne','non renseigné(e)','information en recherche ou disponible mais non saisie'),
+	 ('non_concerne','non concerné(e)','information non possible ou non pertinente pour l''élément décrit'),
+	 ('non_valide','non validé(e)','information existe mais n''est pas officiellement validée'),
+	 ('non_determine','non déterminé(e)','information inconnue ou non disponible et ne peut pas l''être'),
+	 ('autre','autre','ne figure pas dans la liste ci-dessus. cf. commentaire');
+
+---rendre NULLABLE la référence aux réservoirs dans canalisation aep
+ALTER TABLE stareau_aep.aep_canalisation ALTER COLUMN ref_reservoir DROP NOT NULL;
 
