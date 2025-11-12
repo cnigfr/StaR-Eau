@@ -1,5 +1,5 @@
 # Changelog - Journal des modifications - liste de valeurs
-// Last modified: 2025/11/08 00:05:35
+// Last modified: 2025/11/12 18:31:41
 
 Tous les changements notables dans **les listes de valeurs** sont listés ici. Merci de respecter la format.
 Le format de ce fichier est basé sur [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/)
@@ -18,6 +18,7 @@ Les modifications de liste s'appliquent dans le répertoire "brutes avant import
 - Dans la liste __aep_fonction_branchement__ : purge -> purge/vidange
 - Dans la liste __aep_fonction_vanne__ : purge -> purge/vidange
 - Dans la liste __aep_type_appareillage__ : purge -> purge automatique
+- suppression de la référence **ACD** dans les codes materiau norme de __com_materiau__ pour une meilleure compatibilité avec les fichiers ITV.
 
 ### Removed - Retiré
 - Dans la liste __aep_fonction_branchement__ :vidange, livraison

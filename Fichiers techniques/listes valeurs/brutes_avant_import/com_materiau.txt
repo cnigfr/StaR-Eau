@@ -1,51 +1,51 @@
-"acier","acier","acier","métal","steel","acdap"
-"amci","amiante-ciment","amiante-ciment","composite","asbestos","acdaa"
-"autre","autre","autre","autre","other","acdz"
-"ba","béton armé","béton armé","assemblage",,"acdah"
-"beton","béton inconnu","type non identifié de béton","assemblage","concrete","acdag"
-"bitum","bitume","bitume","composite",,"acdab"
+"acier","acier","acier","métal","steel","ap"
+"amci","amiante-ciment","amiante-ciment","composite","asbestos","aa"
+"autre","autre","autre","autre","other","z"
+"ba","béton armé","béton armé","assemblage",,"ah"
+"beton","béton inconnu","type non identifié de béton","assemblage","concrete","ag"
+"bitum","bitume","bitume","composite",,"ab"
 "bois","bois","bois","autre","wood",
-"briq","briquetage","briquetage","assemblage",,"acdad"
+"briq","briquetage","briquetage","assemblage",,"ad"
 "btat","béton âme tôle","béton âme tôle","assemblage",,
 "btcp","béton composite","béton composite","assemblage","compositeconcrete",
 "btfb","béton fibré","béton fibré","assemblage","reinforcedconcrete",
 "btna","béton non armé","béton non armé","assemblage",,
 "btpc","béton précontraint","béton précontraint","assemblage","prestressedreinforcedconcrete",
-"btpj","béton projeté","béton projeté","assemblage",,"acdai"
+"btpj","béton projeté","béton projeté","assemblage",,"ai"
 "cu","cuivre","cuivre","métal",,
-"epx","époxy","époxy","plastique",,"acdat"
-"fbpj","fibre projetées","fibre projetées","composite",,"acdac"
-"fbro","fibres ciment","fibres ciment ou fibro-ciment","composite",,"acdak"
+"epx","époxy","époxy","plastique",,"at"
+"fbpj","fibre projetées","fibre projetées","composite",,"ac"
+"fbro","fibres ciment","fibres ciment ou fibro-ciment","composite",,"ak"
 "fbvr","fibre de verre","fibre de verre","composite",,
-"fd","fonte ductile","fonte ductile","métal",,"acdao"
-"fg","fonte grise","fonte grise","métal",,"acdan"
-"fonte","fonte","type non identifié de fonte","métal",,"acdam"
-"gres","grès","grès","autre",,"acdae"
-"inc","inconnu","matériau non identifié","autre",,"acdaz"
+"fd","fonte ductile","fonte ductile","métal",,"ao"
+"fg","fonte grise","fonte grise","métal",,"an"
+"fonte","fonte","type non identifié de fonte","métal",,"am"
+"gres","grès","grès","autre",,"ae"
+"inc","inconnu","matériau non identifié","autre",,"az"
 "mac","maçonné","maçonné","assemblage","masonry",
-"maca","maçonnerie appareillée","maçonnerie appareillée","assemblage",,"acdar"
-"macna","maçonnerie non appareillée","maçonnerie non appareillée","assemblage",,"acdas"
-"metal","métal inconnu","type non identifié fer ou acier","métal",,"acdaq"
+"maca","maçonnerie appareillée","maçonnerie appareillée","assemblage",,"ar"
+"macna","maçonnerie non appareillée","maçonnerie non appareillée","assemblage",,"as"
+"metal","métal inconnu","type non identifié fer ou acier","métal",,"aq"
 "meul","meulière","pierre meulière","assemblage",,
-"mrtc","mortier de ciment","mortier de ciment","composite",,"acdaf"
+"mrtc","mortier de ciment","mortier de ciment","composite",,"af"
 "pb","plomb","plomb","métal",,
 "pbu","polybutylène (pb)","polybutylène (pb)","plastique","pb",
-"pe","polyéthylène","polyéthylène","plastique","pe","acdav"
+"pe","polyéthylène","polyéthylène","plastique","pe","av"
 "pebd","pebd","pebd","plastique",,
 "pehd","pehd","pehd lisse / type non identifié de pehd","plastique",,
 "pehda","pehd annelé","pehd annelé","plastique",,
 "pex","polyéthylène réticulé","polyéthylène réticulé à haute densité (pex)","plastique","pex",
-"plast","plastique inconnu","type non identifié de plastiques","plastique",,"acday"
-"pp","polypropylène","polypropylène lisse","plastique","pp","acdaw"
+"plast","plastique inconnu","type non identifié de plastiques","plastique",,"ay"
+"pp","polypropylène","polypropylène lisse","plastique","pp","aw"
 "ppa","polypropylène annelé","polypropylène annelé","plastique",,
-"prv","plastiques renforcé fibres","plastiques renforcé fibres","plastique","frp","acdal"
-"pu","polyester","polyester","plastique",,"acdau"
-"pvc","pvc","polychlorure de vinyle u rigide tuyaux lisses / type non identifié de pvc","plastique","pvc","acdax"
+"prv","plastiques renforcé fibres","plastiques renforcé fibres","plastique","frp","al"
+"pu","polyester","polyester","plastique",,"au"
+"pvc","pvc","polychlorure de vinyle u rigide tuyaux lisses / type non identifié de pvc","plastique","pvc","ax"
 "pvca","pvc annelé","polychlorure de vinyle u rigide tuyaux annelés","plastique",,
 "pvcbo","pvc bi-orienté","polychlorure de vinyle bi-orienté","plastique",,
 "pvcc","pvc c","polychlorure de vinyle surchloré","plastique","cpvc",
 "rpmp","mortier renforcé","mortier renforcé de polymères(rpmp)","composite","rpmp",
-"sgbt","segment de béton","segment de béton","assemblage",,"acdaj"
+"sgbt","segment de béton","segment de béton","assemblage",,"aj"
 "tole","tôle galvanisée","tôle galvanisée","métal","galvanizedsteel",
 "trct","terre cuite","terre cuite","autre","terracota",
-"nr","non renseigné(e)","information en recherche ou disponible mais non saisie","autre",,"acdaz"
+"nr","non renseigné(e)","information en recherche ou disponible mais non saisie","autre",,"az"

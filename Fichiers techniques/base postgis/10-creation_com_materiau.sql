@@ -2,7 +2,7 @@
  * 10-creation_com_materiau.sql
  *
  * // Created: 2024/07/01 05:48:52
- * // Last modified: 2024/12/02 23:13:55
+ * // Last modified: 2025/11/12 18:30:23
  *
  * ETALABV2 - Alain pour Astee / CNIG-2024
  *
@@ -48,56 +48,56 @@ COMMENT ON COLUMN stareau_valeur.com_materiau.ref13508 IS 'référence à la Nor
 ----valeurs
 
 INSERT INTO stareau_valeur.com_materiau (code,valeur,description,categorie,stardt,ref13508) VALUES
-	 ('acier','Acier','acier','métal','steel','ACDAP'),
-	 ('amci','Amiante-Ciment','amiante-ciment','composite','asbestos','ACDAA'),
-	 ('autre','Autre','autre','autre','other','ACDZ'),
-	 ('ba','Béton Armé','béton armé','assemblage','','ACDAH'),
-	 ('beton','Béton inconnu','type non identifié de béton','assemblage','concrete','ACDAG'),
-	 ('bitum','Bitume','bitume','composite','','ACDAB'),
+	 ('acier','Acier','acier','métal','steel','AP'),
+	 ('amci','Amiante-Ciment','amiante-ciment','composite','asbestos','AA'),
+	 ('autre','Autre','autre','autre','other','Z'),
+	 ('ba','Béton Armé','béton armé','assemblage','','AH'),
+	 ('beton','Béton inconnu','type non identifié de béton','assemblage','concrete','AG'),
+	 ('bitum','Bitume','bitume','composite','','AB'),
 	 ('bois','Bois','bois','autre','wood',''),
-	 ('briq','Briquetage','briquetage','assemblage','','ACDAD'),
+	 ('briq','Briquetage','briquetage','assemblage','','AD'),
 	 ('btat','Béton Âme Tôle','béton âme tôle','assemblage','',''),
 	 ('btcp','Béton Composite','béton composite','assemblage','compositeConcrete',''),
 	 ('btfb','Béton Fibré','béton fibré','assemblage','reinforcedConcrete',''),
 	 ('btna','Béton Non Armé','béton non armé','assemblage','',''),
 	 ('btpc','Béton Précontraint','béton précontraint','assemblage','prestressedReinforcedConcrete',''),
-	 ('btpj','Béton Projeté','béton projeté','assemblage','','ACDAI'),
+	 ('btpj','Béton Projeté','béton projeté','assemblage','','AI'),
 	 ('cu','Cuivre','cuivre','métal','',''),
-	 ('epx','Époxy','époxy','plastique','','ACDAT'),
-	 ('fbpj','Fibre Projetées','fibre projetées','composite','','ACDAC'),
-	 ('fbro','Fibres Ciment','fibres ciment ou fibro-ciment','composite','','ACDAK'),
+	 ('epx','Époxy','époxy','plastique','','AT'),
+	 ('fbpj','Fibre Projetées','fibre projetées','composite','','AC'),
+	 ('fbro','Fibres Ciment','fibres ciment ou fibro-ciment','composite','','AK'),
 	 ('fbvr','Fibre De Verre','fibre de verre','composite','',''),
-	 ('fd','Fonte Ductile','fonte ductile','métal','','ACDAO'),
-	 ('fg','Fonte Grise','fonte grise','métal','','ACDAN'),
-	 ('fonte','Fonte','type non identifié de fonte','métal','','ACDAM'),
-	 ('gres','Grès','grès','autre','','ACDAE'),
-	 ('inc','Inconnu','matériau non identifié','autre','','ACDAZ'),
+	 ('fd','Fonte Ductile','fonte ductile','métal','','AO'),
+	 ('fg','Fonte Grise','fonte grise','métal','','AN'),
+	 ('fonte','Fonte','type non identifié de fonte','métal','','AM'),
+	 ('gres','Grès','grès','autre','','AE'),
+	 ('inc','Inconnu','matériau non identifié','autre','','AZ'),
 	 ('mac','Maçonné','maçonné','assemblage','masonry',''),
-	 ('maca','Maçonnerie Appareillée','maçonnerie appareillée','assemblage','','ACDAR'),
-	 ('macna','Maçonnerie Non Appareillée','maçonnerie non appareillée','assemblage','','ACDAS'),
-	 ('metal','Métal Inconnu','type non identifié fer ou acier','métal','','ACDAQ'),
+	 ('maca','Maçonnerie Appareillée','maçonnerie appareillée','assemblage','','AR'),
+	 ('macna','Maçonnerie Non Appareillée','maçonnerie non appareillée','assemblage','','AS'),
+	 ('metal','Métal Inconnu','type non identifié fer ou acier','métal','','AQ'),
 	 ('meul','Meulière','pierre meulière','assemblage','',''),
-	 ('mrtc','Mortier De Ciment','mortier de ciment','composite','','ACDAF');
+	 ('mrtc','Mortier De Ciment','mortier de ciment','composite','','AF');
 INSERT INTO stareau_valeur.com_materiau (code,valeur,description,categorie,stardt,ref13508) VALUES
 	 ('pb','Plomb','plomb','métal','',''),
 	 ('pbu','Polybutylène (PB)','polybutylène (PB)','plastique','PB',''),
-	 ('pe','Polyéthylène','polyéthylène','plastique','PE','ACDAV'),
+	 ('pe','Polyéthylène','polyéthylène','plastique','PE','AV'),
 	 ('pebd','Pebd','Pebd','plastique','',''),
 	 ('pehd','Pehd','Pehd Lisse / type non identifié de Pehd','plastique','',''),
 	 ('pehda','Pehd Annelé','pehd Annelé','plastique','',''),
 	 ('pex','Polyéthylène Réticulé','polyéthylène réticulé à haute densité (PEX)','plastique','PEX',''),
-	 ('plast','Plastique Inconnu','type non identifié de plastiques','plastique','','ACDAY'),
-	 ('pp','Polypropylène','polypropylène Lisse','plastique','PP','ACDAW'),
+	 ('plast','Plastique Inconnu','type non identifié de plastiques','plastique','','AY'),
+	 ('pp','Polypropylène','polypropylène Lisse','plastique','PP','AW'),
 	 ('ppa','Polypropylène Annelé','polypropylène Annelé','plastique','',''),
-	 ('prv','Plastiques Renforcé Fibres','plastiques renforcé fibres','plastique','FRP','ACDAL'),
-	 ('pu','Polyester','polyester','plastique','','ACDAU'),
-	 ('pvc','Pvc','polychlorure de vinyle U rigide tuyaux lisses / type non identifié de PVC','plastique','PVC','ACDAX'),
+	 ('prv','Plastiques Renforcé Fibres','plastiques renforcé fibres','plastique','FRP','AL'),
+	 ('pu','Polyester','polyester','plastique','','AU'),
+	 ('pvc','Pvc','polychlorure de vinyle U rigide tuyaux lisses / type non identifié de PVC','plastique','PVC','AX'),
 	 ('pvca','Pvc Annelé','polychlorure de vinyle U rigide tuyaux annelés','plastique','',''),
 	 ('pvcbo','Pvc Bi-orienté','polychlorure de vinyle bi-orienté','plastique','',''),
 	 ('pvcc','Pvc C','polychlorure de vinyle surchloré','plastique','CPVC',''),
 	 ('rpmp','Mortier Renforcé','mortier renforcé de polymères(RPMP)','composite','RPMP',''),
-	 ('sgbt','Segment De Béton','segment de béton','assemblage','','ACDAJ'),
+	 ('sgbt','Segment De Béton','segment de béton','assemblage','','AJ'),
 	 ('tole','Tôle Galvanisée','tôle galvanisée','métal','galvanizedSteel',''),
 	 ('trct','Terre Cuite','terre Cuite','autre','terracota',''),
-	 ('nr','Non renseigné(e)','information en recherche ou disponible mais non saisie','autre','','ACDAZ');
+	 ('nr','Non renseigné(e)','information en recherche ou disponible mais non saisie','autre','','AZ');
 

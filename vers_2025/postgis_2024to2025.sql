@@ -1,7 +1,7 @@
 /*
  * postgis_2024to2025 - 2025-02-14
  * // Created: 2024/07/01 05:48:52
- * // Last modified: 2025/11/08 00:12:24
+ * // Last modified: 2025/11/08 13:46:48
  * ETALABV2 - Alain pour Astee / CNIG-2025
  *
  * Ce fichier est un document libre ; vous pouvez le redistribuer et/ou le modifier selon les termes de la
@@ -90,3 +90,7 @@ INSERT INTO stareau_valeur.aep_position_vanne (code,valeur,description) VALUES
 ---rendre NULLABLE la référence aux réservoirs dans canalisation aep
 ALTER TABLE stareau_aep.aep_canalisation ALTER COLUMN ref_reservoir DROP NOT NULL;
 
+ALTER TABLE stareau_ass_brcht.ass_canalisation_branchement RENAME COLUMN fonction_canalisation TO fonction_branchement;
+COMMENT ON COLUMN stareau_ass_brcht.ass_canalisation_branchement.fonction_branchement IS '*fonction du branchement dans le réseau*';
+ALTER TABLE stareau_aep_brcht.aep_canalisation_branchement RENAME COLUMN fonction_canalisation TO fonction_branchement;
+COMMENT ON COLUMN stareau_aep_brcht.aep_canalisation_branchement.fonction_branchement IS '*fonction du branchement dans le réseau*';
