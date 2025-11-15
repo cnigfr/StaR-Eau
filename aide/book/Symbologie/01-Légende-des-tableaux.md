@@ -26,9 +26,9 @@ avec
   
 | type | symbole |
 | ---- | ---- |
-| Point | ![point](/images/symbole/point-svgrepo-com.svg) |
-| Ligne | ![ligne](/images/symbole/polyline-pt-svgrepo-com.svg) |
-| Surface | ![polygone](/images/symbole/polygon-pt-svgrepo-com.svg) |
+| Point | ![point](../images/symbole/point-svgrepo-com.svg) |
+| Ligne | ![ligne](../images/symbole/polyline-pt-svgrepo-com.svg) |
+| Surface | ![polygone](../images/symbole/polygon-pt-svgrepo-com.svg) |
 
 * **Symbole** - Représentation des objets à l'échelle indiquée
 * **Pt d'insertion** : Point d'insertion des objets ponctuels
