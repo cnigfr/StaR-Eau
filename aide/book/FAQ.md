@@ -35,7 +35,7 @@ index: 1
 ## Assainissement
 :::tiles
 
-::tile{title="Comment saisir un branchement assainissement ?" href="Modèle/Assainissement/ass_canalisation_branchement"}
+::tile{title="Comment saisir un branchement assainissement ?" href="Modèle/Assainissement/branchement/ass_canalisation_branchement" icon="https://www.svgrepo.com/show/510048/line-tool.svg"}
 
 ::tile{title="Comment représenter un déversoir d'orage ?" href="FAQ/deversoir_orage"}
 
