@@ -59,7 +59,9 @@ COMMENT ON COLUMN stareau_principale.dimension.longueur_exterieure IS 'longueur 
 --DONNÉES GÉNÉRALES
 
 CREATE TABLE "stareau_principale".champ_commun(
-   --id_champ_commun INT GENERATED ALWAYS AS IDENTITY,
+   id_champ_commun TEXT NOT NULL DEFAULT gen_random_uuid(), ---- >=PG13 uuid par défaut peut-être retirer pour autre identifiant
+   --id_champ_commun INT GENERATED ALWAYS AS IDENTITY, -- id numerique à numérotation auto
+   --id_champ_commun TEXT NOT NULL,  -- pour personnalisation ou récupération de l'id existant
    type_reseau TEXT NOT NULL, --type de réseau (com_type_reseau)
    fictif BOOL DEFAULT false NULL,
    etat_service TEXT NOT NULL, --etat de service (com_etat_service)
