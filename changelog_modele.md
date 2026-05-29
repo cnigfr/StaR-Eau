@@ -1,6 +1,6 @@
 # Changelog - Journal des modifications
 
-// Last modified: 2025/11/08 13:42:18
+// Last modified: 2026/05/30 00:09:28
 
 Tous les changements notables du modèle sont listés ici. Merci de respecter la format.
 Le format de ce fichier est basé sur [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/)
@@ -20,7 +20,8 @@ Le format de ce fichier est basé sur [Keep a Changelog](https://keepachangelog.
 - modification pour uniformisation des termes incluant les cotes NGF de points : remplacement de *z_* par *cote_* dans **ass_canalisation**,**ass_regard**,**ass_canalisation_branchement**,**ass_point_collecte**
 - modification pour cohérence du terme *profondeur* dans **ass_point_collecte**
 - *ref_reservoir* de **aep_canalisation** devient NULLABLE
-- modification dans **ass_canalisation_branchement** de __fonction_canalisation__ en __fonction_branchement__ car les liste sont différentes donc rique de confusion 
+- modification dans **ass_canalisation_branchement** de __fonction_canalisation__ en __fonction_branchement__ car les liste sont différentes donc rique de confusion
+- passage du champ *sensible* de la table **canalisation** à la table **champ_commun** pour compatibilité Star-DT
 
 ### Removed - Retiré
 

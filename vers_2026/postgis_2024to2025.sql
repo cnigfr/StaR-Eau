@@ -1,7 +1,9 @@
 /*
  * postgis_2024to2025 - 2025-02-14
+
  * // Created: 2024/07/01 05:48:52
- * // Last modified: 2025/11/08 13:46:48
+ * // Last modified: 2026/05/30 00:42:52
+
  * ETALABV2 - Alain pour Astee / CNIG-2025
  *
  * Ce fichier est un document libre ; vous pouvez le redistribuer et/ou le modifier selon les termes de la
@@ -94,3 +96,15 @@ ALTER TABLE stareau_ass_brcht.ass_canalisation_branchement RENAME COLUMN fonctio
 COMMENT ON COLUMN stareau_ass_brcht.ass_canalisation_branchement.fonction_branchement IS '*fonction du branchement dans le réseau*';
 ALTER TABLE stareau_aep_brcht.aep_canalisation_branchement RENAME COLUMN fonction_canalisation TO fonction_branchement;
 COMMENT ON COLUMN stareau_aep_brcht.aep_canalisation_branchement.fonction_branchement IS '*fonction du branchement dans le réseau*';
+
+--- passage sensible des canalisation vers les champs commun pour prise en compte de tous les ouvrages dans Star-DT
+
+ALTER TABLE stareau_principale.canalisation RENAME COLUMN sensible TO sensible_old;
+ALTER TABLE stareau_principale.champ_commun ADD sensible boolean DEFAULT false NULL;
+COMMENT ON COLUMN stareau_principale.champ_commun.sensible IS 'ouvrage sensible DT-DICT';
+--avec recup des données présentes !
+UPDATE stareau_principale.canalisation
+SET sensible = sensible_old;
+
+ALTER TABLE stareau_principale.canalisation DROP COLUMN sensible_old;
+
