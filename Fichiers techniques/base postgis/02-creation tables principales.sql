@@ -192,5 +192,3 @@ CREATE TABLE stareau_principale.mm_emprise_ponctuel (
   id_noeud_reseau text NOT NULL
 );
 COMMENT ON TABLE stareau_principale.mm_emprise_ponctuel IS 'table many-many entre éléments surfaciques et éléments ponctuels';
-
-
