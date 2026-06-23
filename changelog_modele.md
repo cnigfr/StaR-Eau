@@ -5,7 +5,7 @@
 Tous les changements notables du modèle sont listés ici. Merci de respecter la format.
 Le format de ce fichier est basé sur [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/)
 
-## [Unreleased] - En cours
+## Unreleased - En cours
 
 ### Added - Ajouté
 
@@ -27,7 +27,7 @@ Le format de ce fichier est basé sur [Keep a Changelog](https://keepachangelog.
 
 ### deprecated - déprécié
 
-## [V2024] - 2024-12-10
+## V2024 - 2024-12-10
 
 Version de base (ou 1.0.0). Point de départ du changelog.
 
