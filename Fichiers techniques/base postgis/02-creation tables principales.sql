@@ -88,7 +88,7 @@ CREATE TABLE "stareau_principale".champ_commun(
    lien_doc1 TEXT,
    lien_doc2 TEXT,
    commentaire TEXT
-   --,CONSTRAINT PK_champ_commun PRIMARY KEY(id_champ_commun)
+   --CONSTRAINT PK_champ_commun PRIMARY KEY(id_champ_commun)
 );
 COMMENT ON TABLE stareau_principale.champ_commun IS 'table des champs communs à toutes les tables';
 
